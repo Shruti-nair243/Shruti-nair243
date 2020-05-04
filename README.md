@@ -1,2 +1,2 @@
-# Shruti-nair243
-fibonacci series  python
+# fibonacci series in python
+
